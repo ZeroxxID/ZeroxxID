@@ -33,4 +33,4 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zeroxxid&theme=highcontrast" alt="zeroxxid" /></p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=zeroxxid&label=Visitors&color=ff0000&style=plastic" alt="zeroxxid" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zeroxxid&label=Visitors&color=ff0000&style=plastic" alt="zeroxxid" /> </p>
