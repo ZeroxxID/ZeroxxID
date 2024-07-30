@@ -35,7 +35,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zeroxxid&theme=highcontrast" alt="zeroxxid" /><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroxxid&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="zeroxxid" /></p>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=zeroxxid&show_icons=true&theme=merko&locale=en" alt="zeroxxid" /></p>
 
