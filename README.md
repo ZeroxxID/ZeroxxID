@@ -31,11 +31,11 @@
 <br>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ZeroxID"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ZeroxID" /></a><a href="https://ko-fi.com/zeroid"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zeroid" /></a></p><br><br><br><br>
+<p><a href="https://www.buymeacoffee.com/ZeroxID"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ZeroxID" /></a><a href="https://ko-fi.com/zeroid"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zeroid" /></a></p><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zeroxxid&theme=highcontrast" alt="zeroxxid" /><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroxxid&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="zeroxxid" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zeroxxid&theme=highcontrast" alt="zeroxxid" /><br><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroxxid&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="zeroxxid" /></p>
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=zeroxxid&show_icons=true&theme=merko&locale=en" alt="zeroxxid" /></p>
 
