@@ -31,6 +31,6 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=zeroxxid&show_icons=true&theme=merko&locale=en" alt="zeroxxid" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroxxid&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="zeroxxid" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroxxid&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="zeroxxid" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeroxxid&label=Visitors&color=ff0000&style=plastic" alt="zeroxxid" /> </p>
