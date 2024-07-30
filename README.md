@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm ZeroID !!!</h1>
 <h3 align="center">A member on AXV from ID !!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeroxxid&label=Profile%20views&color=0e75b6&style=flat" alt="zeroxxid" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeroxxid&label=Visitors&color=ff0000&style=plastic" alt="zeroxxid" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeroxxid" alt="zeroxxid" /></a> </p>
 
@@ -29,8 +29,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ZeroxID"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ZeroxID" /></a><a href="https://ko-fi.com/zeroid"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zeroid" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroxxid&show_icons=true&locale=en&layout=compact" alt="zeroxxid" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroxxid&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="zeroxxid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeroxxid&show_icons=true&locale=en" alt="zeroxxid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeroxxid&show_icons=true&theme=merko&locale=en" alt="zeroxxid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeroxxid&" alt="zeroxxid" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeroxxid&theme=highcontrast" alt="zeroxxid" /></p>
