@@ -87,9 +87,22 @@
   <br>
   <br>
   <br>
-  <p>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zeroxxid&theme=highcontrast" alt="zeroxxid" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroxxid&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="zeroxxid" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeroxxid&theme=tokyonight" alt="zeroxxid" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=zeroxxid&show_icons=true&theme=tokyonight&locale=en" alt="zeroxxid" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroxxid&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="zeroxxid"/>
+      </td>
+    </tr>
+  </table>
+    
   </p>
   <br>
   <br>
@@ -101,7 +114,7 @@
   <br>
   <br>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=zeroxxid&show_icons=true&theme=merko&locale=en" alt="zeroxxid" />
+    
   </p>
   <br>
   <h3 align="center">My Best Operating Syetem Ever <3 </h3>
