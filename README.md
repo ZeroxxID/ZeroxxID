@@ -30,7 +30,7 @@
 
 <br>
 
-<img align='center' src='https://github.com/ZeroxxID/ZeroxxID/blob/output/github-contribution-grid-snake-dark.svg'>
+<img align='center' src='https://github.com/ZeroxxID/snk/blob/output/github-contribution-grid-snake-dark.svg'>
 
 <br>
 
