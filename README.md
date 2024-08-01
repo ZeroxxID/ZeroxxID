@@ -42,7 +42,7 @@
         </td>
         <td>
           <a href="https://twitter.com/ZeroxxID">
-            <img src="https://github.com/ZeroxxID/Logos/blob/main/x-icon.svg" width="42px" height="42px" />
+            <img src="https://skillicons.dev/icons?i=twitter"  />
           </a>
         </td>
         <td>
@@ -63,7 +63,7 @@
   <br>
   <h3 align="left">Operating Systems Ever Tried:</h3>
   <p>
-    <a href="https://skillicons.dev">
+    <a href="https://github.com/ZeroxxID">
       <img src="https://skillicons.dev/icons?i=arch,debian,kali,mint,ubuntu,windows" />
   </p>
   <br>
