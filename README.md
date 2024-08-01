@@ -57,7 +57,7 @@
   <h3 align="left">All Interest:</h3>
   <p>
     <a href="https://github.com/ZeroxxID">
-      <img src="https://skillicons.dev/icons?i=ae,ai,arduino,aws,azure,c,cpp,css,docker,expressjs,gcp,git,go,grafana,html,js,kubernetes,linux,mysql,nextjs,nginx,nix,nodejs,perl,php,php,pr,ps,python,react,redhat,ruby,rust,typescript,unity,unreal,vuejs" />
+      <img src="https://skillicons.dev/icons?i=ae,ai,arduino,aws,azure,c,cpp,css,docker,expressjs,gcp,git,go,grafana,html,js,kubernetes,linux,mysql,nextjs,nginx,nix,nodejs,perl,php,pr,ps,python,react,redhat,ruby,rust,typescript,unity,unreal,vuejs" />
     </a>
   </p>
   <br>
