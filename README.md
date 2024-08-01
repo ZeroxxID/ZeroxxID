@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World+!+👋;+I'm+ZeroID+!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World+!+👋;+I'm+ZeroID+!;&center=true&size=30" />
   </a>
 </h1>
 <h3 align="center">A Member on AXV from ID !!!</h3>
@@ -22,15 +22,12 @@
  - 👨‍💻 All of my projects are available at [https://github.com/ZeroxxID](https://github.com/ZeroxxID)
 
  - 📝 I regularly write articles on [axvzero.my.id](axvzero.my.id)
-
+ 
  - 📫 How to reach me **zeroxxcs@gmail.com**
-
+ 
  - ⚡ Fun fact **Hotaru is my wife <3**
-
   <br>
-  <h3 align="left">Connect with me:
-    <br>
-    <br>
+  <h3 align="left">Connect with me:</h3>
     <table>
       <tr>
         <td>
@@ -50,16 +47,12 @@
         </td>
         <td>
           <a href="https://www.youtube.com/@ZeroxxID">
-            <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"  width="50px" height="50px"/>
+            <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" width="50px" height="50px" />
           </a>
         </td>
       </tr>
     </table>
-  </h3>
-  <p align="left"></p>
-  <br>
   <img align='center' src='https://github.com/ZeroxxID/ZeroxxID/blob/output/github-contribution-grid-snake-dark.svg'>
-  <br>
   <br>
   <h3 align="left">All Interest:</h3>
   <p>
@@ -98,24 +91,10 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroxxid&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="zeroxxid"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroxxid&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="zeroxxid" />
       </td>
     </tr>
   </table>
-    
-  </p>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <p align="center">
-    
-  </p>
   <br>
   <h3 align="center">My Best Operating Syetem Ever <3 </h3>
       <p align="center">
@@ -132,7 +111,7 @@
       </p>
       <p align="center">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com/?lines=Thankyou+so+much,+ARCH+!;Thankyou+Linux+!&center=true&size=20">
+          <img src="https://readme-typing-svg.herokuapp.com/?lines=Thankyou+so+much,+ARCH+!;Thankyou+Linux+!&center=true&size=20" />
         </a>
       </p>
       <p align="center">
