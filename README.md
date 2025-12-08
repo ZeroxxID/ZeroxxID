@@ -3,8 +3,8 @@
 </h1>
 <h3 align="center">A Member on AXV from ID !!!</h3>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ZeroxxID" alt="zeroxxid" />
+  <a href="https://github.com/ZeroxxID">
+    <img src="https://github-profile-trophy.vercel.app/?username=ZeroxxID&theme=onedark" alt="ZeroxxID" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZeroxxID](https://github.com/ZeroxxID)
 
-- 📝 I regularly write articles on [axvzero.my.id](axvzero.my.id)
+- 📝 I regularly write articles on [zeroxx.my.id](zeroxx.my.id)
  
 - 📫 How to reach me **zeroxxcs@gmail.com**
  
