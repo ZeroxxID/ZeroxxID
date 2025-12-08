@@ -50,14 +50,28 @@
 <h3 align="left">All Interest:</h3>
 <p>
   <a href="https://github.com/ZeroxxID">
-  <img src="https://skillicons.dev/icons?i=ae,ai,arduino,aws,azure,c,cpp,css,docker,expressjs,gcp,git,go,grafana,html,js,kubernetes,linux,mysql,nextjs,nginx,nix,nodejs,perl,php,pr,ps,python,react,redhat,ruby,rust,typescript,unity,unreal,vuejs" />
+  <img src="https://skillicons.dev/icons?i=ae,ai,arduino,aws,azure,c,cpp,docker,expressjs,gcp,git,go,grafana,kubernetes,linux,mysql,nextjs,nginx,nix,nodejs,react,redhat,ruby,rust,typescript,unity,unreal,vuejs" />
   </a>
 </p>
 <br>
-<h3 align="left">Operating Systems Ever Tried:</h3>
+<h3 align="left">Operating Systems:</h3>
 <p>
   <a href="https://github.com/ZeroxxID">
     <img src="https://skillicons.dev/icons?i=arch,debian,kali,mint,ubuntu,windows" />
+</p>
+<br>
+<h3 align="left">Programing Languages:</h3>
+<p>
+  <a href="https://github.com/ZeroxxID">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,go" />
+  </a>
+</p>
+<br>
+<h3 align="left">Tools:</h3>
+<p>
+  <a href="https://github.com/ZeroxxID">
+  <img src="https://skillicons.dev/icons?i=ps,pr" />
+  </a>
 </p>
 <br>
 <h3 align="left">Support:</h3>
