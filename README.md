@@ -4,7 +4,7 @@
 <h3 align="center">A Member on AXV from ID !!!</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zeroxxid" alt="zeroxxid" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ZeroxxID" alt="zeroxxid" />
   </a>
 </p>
 
