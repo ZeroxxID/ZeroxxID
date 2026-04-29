@@ -97,7 +97,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" colspan=2>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroxxid&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="zeroxxid" />
     </td>
   </tr>
