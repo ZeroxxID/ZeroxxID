@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World+!+👋;+I'm+0x+!;&center=true&size=30" />
 </h1>
-<h3 align="center">A Member on AXV from ID !!!</h3>
+<h3 align="center">Member of AXV !!!</h3>
 <p align="center">
   <a href="https://github.com/ZeroxxID">
     <img src="https://github-profile-trophy.vercel.app/?username=ZeroxxID&theme=onedark" alt="ZeroxxID" />
